@@ -1,0 +1,6 @@
+{
+  "name": "LevelMatch Classroom",
+  "description": "Foundational learning diagnostic, automated grouping, and blackboard activity plan generator for low-resource primary classrooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
